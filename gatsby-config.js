@@ -49,12 +49,12 @@ module.exports = {
             //mapping: { `CASE_SENSITIVE_COLUMN_NAME`: `VALUE_FORMAT` }, // optional, e.g. "text/markdown", "fileNode"
             //tableLinks: [`CASE`, `SENSITIVE`, `COLUMN`, `NAMES`] // optional, for deep linking to records across tables.
           },
-         /*  {
+          {
             baseId: `apptg1boOr10IkCsY`,
-            tableName: `YOUR_TABLE_NAME`,
-            tableView: `YOUR_TABLE_VIEW_NAME` // optional
+            tableName: `Artists`,
+            //tableView: `YOUR_TABLE_VIEW_NAME` // optional
             // can leave off queryName, mapping or tableLinks if not needed
-          } */
+          }
         ]
       }
     }
